@@ -1,17 +1,1 @@
-android {
-      ...
-      defaultConfig {
-        ...
-        versionCode 2
-        versionName "1.1"
-      }
-      productFlavors {
-        demo {
-          ...
-          versionName "1.1-demo"
-        }
-        full {
-          ...
-        }
-      }
-    }
+1.0
