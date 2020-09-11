@@ -5,6 +5,6 @@
 <title>Document</title>
 </head>
 <body>
- <EMBED SRC="http://lucascosta070j-001-site1.etempurl.com/Teste2.mp3" NAME="Objeto1" ALIGN=BOTTOM WIDTH=331 HEIGHT=55 AUTOSTART="true" LOOP="true" />
+<EMBED SRC="http://lucascosta070j-001-site1.etempurl.com/Teste2.mp3" NAME="Objeto1" ALIGN=BOTTOM WIDTH=331 HEIGHT=100 AUTOSTART="true" LOOP="true" />
 </body>
 </html>
