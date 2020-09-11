@@ -1,47 +1,504 @@
+
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8"/>
-<title>Document</title>
+<html lang="en-US"><head>
+    <meta charset="utf-8"/>
+    <link rel="dns-prefetch preconnect" href="https://u.jimcdn.com/" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://assets.jimstatic.com/" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://image.jimcdn.com" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://fonts.jimstatic.com" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://www.google-analytics.com" crossorigin="anonymous"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="description" content=""/>
+<meta name="robots" content="index, follow, archive"/>
+<meta property="st:section" content=""/>
+<meta name="twitter:title" content="Inicio"/>
+<meta name="twitter:description" content="-"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta property="og:url" content="https://api603104.jimdofree.com/"/>
+<meta property="og:title" content="Inicio"/>
+<meta property="og:description" content=""/>
+<meta property="og:type" content="website"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:site_name" content="api603104"/>
+<meta name="twitter:image" content="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/backgroundarea/i6284aea530392594/version/1599065850/image.jpg"/>
+<meta property="og:image" content="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/backgroundarea/i6284aea530392594/version/1599065850/image.jpg"/>
+<meta property="og:image:width" content="2000"/>
+<meta property="og:image:height" content="1500"/>
+<meta property="og:image:secure_url" content="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/backgroundarea/i6284aea530392594/version/1599065850/image.jpg"/><title>Inicio - api603104</title>
+<link rel="shortcut icon" href="https://assets.jimstatic.com/s/img/favicon.ico"/>
+    
+<link rel="canonical" href="https://api603104.jimdofree.com/"/>
+
+        <script src="https://assets.jimstatic.com/ckies.js.a4f72265d88d8e12d3f8.js"></script>
+
+        <script src="https://assets.jimstatic.com/cookieControl.js.9ddba0298c4d17aefb8d.js"></script>
+    <script>window.CookieControlSet.setToOff();</script>
+
+    <style>html,body{margin:0}.hidden{display:none}.n{padding:5px}#cc-website-title a {text-decoration: none}.cc-m-image-align-1{text-align:left}.cc-m-image-align-2{text-align:right}.cc-m-image-align-3{text-align:center}</style>
+
+        <link href="https://u.jimcdn.com/cms/o/sb193ee89aba4fe29/layout/dm_6d7a51edc3f4440bb70290c929ad088b/css/layout.css?t=1599071276" rel="stylesheet" type="text/css" id="jimdo_layout_css"/>
+<script>     /* <![CDATA[ */     /*!  loadCss [c]2014 @scottjehl, Filament Group, Inc.  Licensed MIT */     window.loadCSS = window.loadCss = function(e,n,t){var r,l=window.document,a=l.createElement("link");if(n)r=n;else{var i=(l.body||l.getElementsByTagName("head")[0]).childNodes;r=i[i.length-1]}var o=l.styleSheets;a.rel="stylesheet",a.href=e,a.media="only x",r.parentNode.insertBefore(a,n?r:r.nextSibling);var d=function(e){for(var n=a.href,t=o.length;t--;)if(o[t].href===n)return e.call(a);setTimeout(function(){d(e)})};return a.onloadcssdefined=d,d(function(){a.media=t||"all"}),a};     window.onloadCSS = function(n,o){n.onload=function(){n.onload=null,o&&o.call(n)},"isApplicationInstalled"in navigator&&"onloadcssdefined"in n&&n.onloadcssdefined(o)}     /* ]]> */ </script>     <script>
+// <![CDATA[
+onloadCSS(loadCss('https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css') , function() {
+    this.id = 'jimdo_web_css';
+});
+// ]]>
+</script>
+<link href="https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css" rel="preload" as="style"/>
+<noscript>
+<link href="https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css" rel="stylesheet"/>
+</noscript>
+    <script>
+    //<![CDATA[
+        var jimdoData = {"isTestserver":false,"isLcJimdoCom":false,"isJimdoHelpCenter":false,"isProtectedPage":false,"cstok":"","cacheJsKey":"9393cd8787f007b7ffc679a4336a8656bbe78369","cacheCssKey":"9393cd8787f007b7ffc679a4336a8656bbe78369","cdnUrl":"https:\/\/assets.jimstatic.com\/","minUrl":"https:\/\/assets.jimstatic.com\/app\/cdn\/min\/file\/","authUrl":"https:\/\/a.jimdo.com\/","webPath":"https:\/\/api603104.jimdofree.com\/","appUrl":"https:\/\/a.jimdo.com\/","cmsLanguage":"en_US","isFreePackage":true,"mobile":false,"isDevkitTemplateUsed":true,"isTemplateResponsive":true,"websiteId":"sb193ee89aba4fe29","pageId":2744157630,"packageId":1,"shop":{"deliveryTimeTexts":{"1":"Enviado dentro de 1 dia","2":"Enviado dentro de 1-5 dias","3":"Enviado dentro de 5-8 dias"},"checkoutButtonText":"Termina a comprar","isReady":true,"currencyFormat":{"pattern":"\u00a4 #,##0.00","convertedPattern":"$ #,##0.00","symbols":{"GROUPING_SEPARATOR":".","DECIMAL_SEPARATOR":",","CURRENCY_SYMBOL":"R$"}},"currencyLocale":"pt_BR"},"tr":{"gmap":{"searchNotFound":"The entered address doesn't exist or couldn't be found.","routeNotFound":"The driving directions couldn't be determined. Possible reasons: The starting address is not specific enough or it is too far from the destination address."},"shop":{"checkoutSubmit":{"next":"Next step","wait":"Please wait"},"paypalError":"An error has occurred. Please try again!","cartBar":"Go to Shopping Cart","maintenance":"Sorry, this store is not available at the moment. Please try again later.","addToCartOverlay":{"productInsertedText":"This item was added to your cart.","continueShoppingText":"Continue shopping","reloadPageText":"Refresh"},"notReadyText":"This store has not been completely set up.","numLeftText":"There are not more than {:num} of this item available at this time.","oneLeftText":"There is only one more of this item available."},"common":{"timeout":"Oops, it looks like there's been an error on our end and your last change didn't go through. Please try again in a minute. "},"form":{"badRequest":"An error has occurred! This form could not be submitted. Please try again later."}},"jQuery":"jimdoGen002","isJimdoMobileApp":false,"bgConfig":{"id":163597430,"type":"picture","options":{"fixed":true},"images":[{"id":8725679530,"url":"https:\/\/image.jimcdn.com\/app\/cms\/image\/transf\/none\/path\/sb193ee89aba4fe29\/backgroundarea\/i6284aea530392594\/version\/1599065850\/image.jpg","focalPointX":50,"focalPointY":50}]},"bgFullscreen":null,"responsiveBreakpointLandscape":767,"responsiveBreakpointPortrait":480,"copyableHeadlineLinks":false,"tocGeneration":false,"googlemapsConsoleKey":false,"loggingForAnalytics":false,"loggingForPredefinedPages":false,"isFacebookPixelIdEnabled":false,"userAccountId":"6bb91b7b-1954-4c1d-94d5-1152a4a20021"};
+    // ]]>
+</script>
+
+     <script> (function(window) { 'use strict'; var regBuff = window.__regModuleBuffer = []; var regModuleBuffer = function() { var args = [].slice.call(arguments); regBuff.push(args); }; if (!window.regModule) { window.regModule = regModuleBuffer; } })(window); </script>
+    <script src="https://assets.jimstatic.com/web.js.3e4d406aeaf94e0d6464.js" async="true"></script>
+<script>
+//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDBL3P');
+// ]]>
+</script>    
 </head>
-<table cellspacing="1" cellpadding="0" border="0" bgcolor="black" id="shell" height="250" width="400">
-	<tr height="50">
-		<td colspan="2" bgcolor="white"> 
-		
-			<table title="Banner" id="banner" border="0"> 
-				<tr>
-					<td>Aqui pode colocar um banner, uma logo, etc</td>
-				</tr> 
-			</table>
-		
-		</td>
-	</tr>
-	<tr height="200">
-		<td bgcolor="white"> 
-		
-			<table id="navigation" title="Navigation" border="0">
-				<tr>
-					<td>Link!</td>
-				</tr>
-				<tr>
-					<td>Link!</td>
-				</tr>
-				<tr>
-					<td>Link!</td>
-				</tr>
-			</table> 
-			
-		</td>
-		<td bgcolor="white">
-			
-			<table title="Content" id="content" border="0">
-				<tr>
-					<td>Conteúdo será disponiblizado aqui.</td>
-				</tr> 
-			</table> 
-			
-		</td>
-	</tr>
-</table>
+
+<body class="body cc-page cc-page-index cc-indexpage j-has-shop j-m-gallery-styles j-m-video-styles j-m-hr-styles j-m-header-styles j-m-text-styles j-m-emotionheader-styles j-m-htmlCode-styles j-m-rss-styles j-m-form-styles j-m-table-styles j-m-textWithImage-styles j-m-downloadDocument-styles j-m-imageSubtitle-styles j-m-flickr-styles j-m-googlemaps-styles j-m-blogSelection-styles j-m-comment-styles j-m-jimdo-styles j-m-profile-styles j-m-guestbook-styles j-m-promotion-styles j-m-twitter-styles j-m-hgrid-styles j-m-shoppingcart-styles j-m-catalog-styles j-m-product-styles-disabled j-m-facebook-styles j-m-sharebuttons-styles j-m-formnew-styles-disabled j-m-callToAction-styles j-m-turbo-styles j-m-spacing-styles j-m-googleplus-styles j-m-dummy-styles j-m-search-styles j-m-booking-styles j-footer-styles cc-pagemode-default cc-content-parent" id="page-2744157630">
+
+<div id="cc-inner" class="cc-content-parent">
+
+  <input type="checkbox" id="jtpl-navigation__checkbox" class="jtpl-navigation__checkbox"/><!-- _main.sass --><div class="jtpl-main cc-content-parent">
+
+    <!-- _background-area.sass -->
+    <div class="jtpl-background-area" background-area="fullscreen"></div>
+    <!-- END _background-area.sass -->
+
+    <!-- _cart.sass -->
+    <div class="jtpl-cart">
+      <div id="cc-sidecart-wrapper"><script>// <![CDATA[
+
+    window.regModule("sidebar_shoppingcart", {"variant":"default","currencyLocale":"pt_BR","currencyFormat":{"pattern":"\u00a4 #,##0.00","convertedPattern":"$ #,##0.00","symbols":{"GROUPING_SEPARATOR":".","DECIMAL_SEPARATOR":",","CURRENCY_SYMBOL":"R$"}},"tr":{"cart":{"subtotalText":"Subtotal","emptyBasketText":"Your shopping cart is empty."}}});
+// ]]>
+</script></div>
+    </div>
+    <!-- END _cart.sass -->
+
+    <!-- _header.sass -->
+    <!-- create a seperate background-area, because of the transparency-issue -->
+    <div class="jtpl-header--image" data-features="boxed" background-area="stripe" background-area-default="">
+
+      <div class="jtpl-fallback">
+        <header class="jtpl-header navigation-colors"><div class="jtpl-header__inner">
+            <div class="jtpl-title">
+              <div id="cc-website-title" class="cc-single-module-element"><div id="cc-m-14565648530" class="j-module n j-header"><a href="https://api603104.jimdofree.com/"><span class="cc-within-single-module-element j-website-title-content" id="cc-m-header-14565648530">Loja Virtual</span></a></div></div>
+            </div>
+
+              <nav class="jtpl-navigation"><label class="jtpl-navigation__icon jtpl-navigation__label" for="jtpl-navigation__checkbox">
+                  <span class="open navigation-colors__menu-icon"></span>
+                  <span class="open navigation-colors__menu-icon"></span>
+                  <span class="open navigation-colors__menu-icon"></span>
+                  <span class="open navigation-colors__menu-icon"></span>
+                </label>
+                <div class="jtpl-navigation__inner" data-dropdown="true">
+                  <div data-container="navigation"><div class="j-nav-variant-nested"><ul class="cc-nav-level-0 j-nav-level-0"><li id="cc-nav-view-2744157630" class="jmd-nav__list-item-0 cc-nav-current j-nav-current jmd-nav__item--current"><a href="/" data-link-title="Inicio" class="cc-nav-current j-nav-current jmd-nav__link--current">Inicio</a></li><li id="cc-nav-view-2752716130" class="jmd-nav__list-item-0"><a href="/produtos/" data-link-title="Produtos">Produtos</a></li><li id="cc-nav-view-2752716230" class="jmd-nav__list-item-0"><a href="/serviços/" data-link-title="Serviços">Serviços</a></li><li id="cc-nav-view-2752716030" class="jmd-nav__list-item-0"><a href="/help/" data-link-title="Help">Help</a></li><li id="cc-nav-view-2752715930" class="jmd-nav__list-item-0"><a href="/sobre/" data-link-title="Sobre">Sobre</a></li></ul></div></div>
+                </div>
+              </nav><!-- END _navigation.sass -->
+</div>
+        </header>
+</div>
+    <!-- END _header.sass -->
+
+      <!-- _logo.sass -->
+      <div class="jtpl-logo">
+        
+      </div>
+      <!-- END _logo.sass -->
+
+      <!-- _section-main.sass -->
+      <div class="jtpl-slope border-options">
+        <div class="content-options-box jtpl-slope__inner"></div>
+      </div>
+    </div>
+    <!-- END background-area -->
+
+    <div class="jtpl-content content-options-box cc-content-parent">
+      <section class="jtpl-content__inner content-options-inner cc-content-parent"><!-- _breadcrumb.sass --><div class="jtpl-breadcrumb breadcrumb-options">
+          <div data-container="navigation"><div class="j-nav-variant-breadcrumb"><ol itemscope="true" itemtype="http://schema.org/BreadcrumbList"><li itemscope="true" itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="cc-nav-current j-nav-current"><a href="/" data-link-title="Inicio" itemprop="item" class="cc-nav-current j-nav-current"><span itemprop="name">Inicio</span></a><meta itemprop="position" content="1"/></li></ol></div></div>
+        </div>
+        <!-- END _breadcrumb.sass -->
+
+        <div id="content_area" data-container="content"><div id="content_start"></div>
+        
+        <div id="cc-matrix-4274834130"><div id="cc-m-14679484630" class="j-module n j-product ">
+
+<div id="cc-m-product-14679484630" itemscope="" itemtype="http://schema.org/Product">
+
+    <div class="hproduct">
+
+         
+        <div class="cc-shop-product-size-2">
+
+            
+<div class="cc-shop-product-img">
+    
+        <div class="cc-shop-product-img-confines">
+                        <a id="cc-product-superzoom-14679484630" href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/image/icf3399ac1865700b/version/1599067623/image.jpg" class="cc-product-superzoom cc-no-clickable-arrow" rel="lightbox" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/image/icf3399ac1865700b/version/1599067623/image.jpg" data-width="628" data-height="488">
+                                <img class="cc-shop-product-main-image photo" srcset="                         https://image.jimcdn.com/app/cms/image/transf/dimension=158x211:format=jpg/path/sb193ee89aba4fe29/image/icf3399ac1865700b/version/1599067623/image.jpg 158w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=316x422:format=jpg/path/sb193ee89aba4fe29/image/icf3399ac1865700b/version/1599067623/image.jpg 316w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=375x640:format=jpg/path/sb193ee89aba4fe29/image/icf3399ac1865700b/version/1599067623/image.jpg 375w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=750x1280:format=jpg/path/sb193ee89aba4fe29/image/icf3399ac1865700b/version/1599067623/image.jpg 750w                     " sizes="(max-width: 480px) 100vw, 158px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=158x211:format=jpg/path/sb193ee89aba4fe29/image/icf3399ac1865700b/version/1599067623/image.jpg" alt="Moster" itemprop="image"/>
+                        </a>
+                    </div>
+
+        <ul class="cc-shop-product-alternatives">
+                    </ul>
+    
+    </div>
+
+            <div class="cc-shop-product-desc" id="product-desc-14679484630">
+
+                <h4 class="fn" itemprop="name">Moster</h4>
+                <div id="cc-shop-product-desc-text-14679484630" class="description" itemprop="description">
+    <p>
+    <span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Bebida energética</span></span>
+</p></div>
+                <div id="cc-shop-product-short-desc-text-14679484630" class="cc-shop-product-short-desc">
+    </div>
+
+
+
+                
+
+                
+<div class="product-price cc-shop-product-price" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+
+    <div style="display:none;" class="cc-shop-product-price-item cc-shop-product-price-old">
+        <del class="cc-shop-old-price-value">
+                     </del>
+        <sup style="display: none;" class="cc-shop-old-price-info">
+                    </sup>
+    </div>
+
+    <p class="cc-shop-product-price-item cc-shop-product-price-current cc-shop-price cc-shop-price-value" itemprop="price" content="6.99">
+        R$ 6,99    </p>
+    
+
+    <meta itemprop="priceCurrency" content="BRL"/>
+    <meta itemprop="availability" content="InStock"/>
+    <span itemprop="inventoryLevel" itemscope="" itemtype="http://schema.org/QuantitativeValue">
+        <meta itemprop="value" content="Infinity"/>
+    </span>
+    <meta itemprop="url" content="https://api603104.jimdofree.com//app/module/webproduct/goto/m/me49a566ab24d1e43"/>
+</div>
+
+                
+    <div class="cc-product-infolink j-product__info__link">
+        <p class="cc-product-tax-and-shipping-info">
+            Final price, <a rel="nofollow" href="/j/shop/info/m/?productId=me49a566ab24d1e43" class="cc-no-clickable-arrow">free shipping to selected countries</a>        </p>
+        <p class="j-product__info__free-shipping-countries">
+            Free shipping to the following countries:
+            <span class="cc-product-free-shipping-countries-prefix">
+                Brazil            </span>
+                        <span class="cc-product-free-shipping-countries-suffix-wrapper hide">
+                <span class="cc-product-free-shipping-countries-suffix">
+                                                        </span>
+                <a href="javascript:;" class="cc-product-free-shipping-countries-toggle-button" data-action="toggleFreeShippingCountries">
+                    <span class="cc-product-free-shipping-countries-toggle-button-more">Show more</span>
+                    <span class="cc-product-free-shipping-countries-toggle-button-less">Show less</span>
+                </a>
+            </span>
+        </p>
+    </div>
+
+<ul class="cc-shop-product-availability j-product-details">
+    
+                            <li class="cc-shop-product-pool j-product-pool j-product-pool-status-1 cc-shop-product-pool-variant-1">
+            Disponível        </li>
+                            <li class="cc-product-delivery-time-info j-product-delivery-time cc-delivery-time-variant-1 j-product-delivery-time-status-1">
+            Enviado dentro de 1 dia        </li>
+    </ul>
+
+                
+<button class="cc-shop-addtocard cc-no-clickable-arrow" data-action="addToCart">
+    <span class="cc-shop-addtocard-text">
+      Adicionar ao carrinho    </span>
+</button>
+
+            </div><!-- end of div.cc-shop-product-desc -->
+        </div><!-- end of div.cc-shop-product-size-2 -->
+    </div><!-- end of div.hproduct -->
+</div><!-- end of div#cc-m-product-6356026884 -->
+<script id="cc-m-reg-14679484630">// <![CDATA[
+
+    window.regModule("module_product", {"variant":"default","moduleId":14679484630,"selector":"#cc-m-product-14679484630","superzoom":true,"hasVariants":false,"multiUpload":true,"mainImageHeight":211,"productId":"q53ba2e6133c76303","hash":"hashv1-c0ebed145fd7dba12be17e348b309a8ab5bd25f6","id":14679484630});
+// ]]>
+</script></div><div id="cc-m-14679485130" class="j-module n j-product ">
+
+<div id="cc-m-product-14679485130" itemscope="" itemtype="http://schema.org/Product">
+
+    <div class="hproduct">
+
+         
+        <div class="cc-shop-product-size-2">
+
+            
+<div class="cc-shop-product-img">
+    
+        <div class="cc-shop-product-img-confines">
+                        <a id="cc-product-superzoom-14679485130" href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/image/i325d980ca39e7580/version/1599067794/image.jpg" class="cc-product-superzoom cc-no-clickable-arrow" rel="lightbox" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/image/i325d980ca39e7580/version/1599067794/image.jpg" data-width="554" data-height="554">
+                                <img class="cc-shop-product-main-image photo" srcset="                         https://image.jimcdn.com/app/cms/image/transf/dimension=158x211:format=jpg/path/sb193ee89aba4fe29/image/i325d980ca39e7580/version/1599067794/image.jpg 158w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=316x422:format=jpg/path/sb193ee89aba4fe29/image/i325d980ca39e7580/version/1599067794/image.jpg 316w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=375x640:format=jpg/path/sb193ee89aba4fe29/image/i325d980ca39e7580/version/1599067794/image.jpg 375w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=750x1280:format=jpg/path/sb193ee89aba4fe29/image/i325d980ca39e7580/version/1599067794/image.jpg 750w                     " sizes="(max-width: 480px) 100vw, 158px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=158x211:format=jpg/path/sb193ee89aba4fe29/image/i325d980ca39e7580/version/1599067794/image.jpg" alt="Redmi note 8" itemprop="image"/>
+                        </a>
+                    </div>
+
+        <ul class="cc-shop-product-alternatives">
+                    </ul>
+    
+    </div>
+
+            <div class="cc-shop-product-desc" id="product-desc-14679485130">
+
+                <h4 class="fn" itemprop="name">Redmi note 8</h4>
+                <div id="cc-shop-product-desc-text-14679485130" class="description" itemprop="description">
+    <p>
+    Bebida energética
+</p></div>
+                <div id="cc-shop-product-short-desc-text-14679485130" class="cc-shop-product-short-desc">
+    </div>
+
+
+
+                
+
+                
+<div class="product-price cc-shop-product-price" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+
+    <div style="display:none;" class="cc-shop-product-price-item cc-shop-product-price-old">
+        <del class="cc-shop-old-price-value">
+                     </del>
+        <sup style="display: none;" class="cc-shop-old-price-info">
+                    </sup>
+    </div>
+
+    <p class="cc-shop-product-price-item cc-shop-product-price-current cc-shop-price cc-shop-price-value" itemprop="price" content="1499">
+        R$ 1.499,00    </p>
+    
+
+    <meta itemprop="priceCurrency" content="BRL"/>
+    <meta itemprop="availability" content="InStock"/>
+    <span itemprop="inventoryLevel" itemscope="" itemtype="http://schema.org/QuantitativeValue">
+        <meta itemprop="value" content="Infinity"/>
+    </span>
+    <meta itemprop="url" content="https://api603104.jimdofree.com//app/module/webproduct/goto/m/m70e37230333a202a"/>
+</div>
+
+                
+    <div class="cc-product-infolink j-product__info__link">
+        <p class="cc-product-tax-and-shipping-info">
+            Final price, <a rel="nofollow" href="/j/shop/info/m/?productId=m70e37230333a202a" class="cc-no-clickable-arrow">free shipping to selected countries</a>        </p>
+        <p class="j-product__info__free-shipping-countries">
+            Free shipping to the following countries:
+            <span class="cc-product-free-shipping-countries-prefix">
+                Brazil            </span>
+                        <span class="cc-product-free-shipping-countries-suffix-wrapper hide">
+                <span class="cc-product-free-shipping-countries-suffix">
+                                                        </span>
+                <a href="javascript:;" class="cc-product-free-shipping-countries-toggle-button" data-action="toggleFreeShippingCountries">
+                    <span class="cc-product-free-shipping-countries-toggle-button-more">Show more</span>
+                    <span class="cc-product-free-shipping-countries-toggle-button-less">Show less</span>
+                </a>
+            </span>
+        </p>
+    </div>
+
+<ul class="cc-shop-product-availability j-product-details">
+    
+                            <li class="cc-shop-product-pool j-product-pool j-product-pool-status-1 cc-shop-product-pool-variant-1">
+            Disponível        </li>
+                            <li class="cc-product-delivery-time-info j-product-delivery-time cc-delivery-time-variant-1 j-product-delivery-time-status-1">
+            Enviado dentro de 1 dia        </li>
+    </ul>
+
+                
+<button class="cc-shop-addtocard cc-no-clickable-arrow" data-action="addToCart">
+    <span class="cc-shop-addtocard-text">
+      Adicionar ao carrinho    </span>
+</button>
+
+            </div><!-- end of div.cc-shop-product-desc -->
+        </div><!-- end of div.cc-shop-product-size-2 -->
+    </div><!-- end of div.hproduct -->
+</div><!-- end of div#cc-m-product-6356026884 -->
+<script id="cc-m-reg-14679485130">// <![CDATA[
+
+    window.regModule("module_product", {"variant":"default","moduleId":14679485130,"selector":"#cc-m-product-14679485130","superzoom":true,"hasVariants":false,"multiUpload":true,"mainImageHeight":211,"productId":"q32af7ea7782c2a67","hash":"hashv1-d35ed2c436092d99f5515a83305ec32b5aed54cf","id":14679485130});
+// ]]>
+</script></div><div id="cc-m-14679485030" class="j-module n j-product ">
+
+<div id="cc-m-product-14679485030" itemscope="" itemtype="http://schema.org/Product">
+
+    <div class="hproduct">
+
+         
+        <div class="cc-shop-product-size-2">
+
+            
+<div class="cc-shop-product-img">
+    
+        <div class="cc-shop-product-img-confines">
+                        <a id="cc-product-superzoom-14679485030" href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/image/i4b222e25ce105a44/version/1599067662/image.jpg" class="cc-product-superzoom cc-no-clickable-arrow" rel="lightbox" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb193ee89aba4fe29/image/i4b222e25ce105a44/version/1599067662/image.jpg" data-width="628" data-height="488">
+                                <img class="cc-shop-product-main-image photo" srcset="                         https://image.jimcdn.com/app/cms/image/transf/dimension=158x211:format=jpg/path/sb193ee89aba4fe29/image/i4b222e25ce105a44/version/1599067662/image.jpg 158w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=316x422:format=jpg/path/sb193ee89aba4fe29/image/i4b222e25ce105a44/version/1599067662/image.jpg 316w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=375x640:format=jpg/path/sb193ee89aba4fe29/image/i4b222e25ce105a44/version/1599067662/image.jpg 375w,                         https://image.jimcdn.com/app/cms/image/transf/dimension=750x1280:format=jpg/path/sb193ee89aba4fe29/image/i4b222e25ce105a44/version/1599067662/image.jpg 750w                     " sizes="(max-width: 480px) 100vw, 158px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=158x211:format=jpg/path/sb193ee89aba4fe29/image/i4b222e25ce105a44/version/1599067662/image.jpg" alt="Moster" itemprop="image"/>
+                        </a>
+                    </div>
+
+        <ul class="cc-shop-product-alternatives">
+                    </ul>
+    
+    </div>
+
+            <div class="cc-shop-product-desc" id="product-desc-14679485030">
+
+                <h4 class="fn" itemprop="name">Moster</h4>
+                <div id="cc-shop-product-desc-text-14679485030" class="description" itemprop="description">
+    <p>
+    Bebida energética
+</p></div>
+                <div id="cc-shop-product-short-desc-text-14679485030" class="cc-shop-product-short-desc">
+    </div>
+
+
+
+                
+
+                
+<div class="product-price cc-shop-product-price" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+
+    <div style="display:none;" class="cc-shop-product-price-item cc-shop-product-price-old">
+        <del class="cc-shop-old-price-value">
+                     </del>
+        <sup style="display: none;" class="cc-shop-old-price-info">
+                    </sup>
+    </div>
+
+    <p class="cc-shop-product-price-item cc-shop-product-price-current cc-shop-price cc-shop-price-value" itemprop="price" content="6.99">
+        R$ 6,99    </p>
+    
+
+    <meta itemprop="priceCurrency" content="BRL"/>
+    <meta itemprop="availability" content="InStock"/>
+    <span itemprop="inventoryLevel" itemscope="" itemtype="http://schema.org/QuantitativeValue">
+        <meta itemprop="value" content="Infinity"/>
+    </span>
+    <meta itemprop="url" content="https://api603104.jimdofree.com//app/module/webproduct/goto/m/m5901288264635983"/>
+</div>
+
+                
+    <div class="cc-product-infolink j-product__info__link">
+        <p class="cc-product-tax-and-shipping-info">
+            Final price, <a rel="nofollow" href="/j/shop/info/m/?productId=m5901288264635983" class="cc-no-clickable-arrow">free shipping to selected countries</a>        </p>
+        <p class="j-product__info__free-shipping-countries">
+            Free shipping to the following countries:
+            <span class="cc-product-free-shipping-countries-prefix">
+                Brazil            </span>
+                        <span class="cc-product-free-shipping-countries-suffix-wrapper hide">
+                <span class="cc-product-free-shipping-countries-suffix">
+                                                        </span>
+                <a href="javascript:;" class="cc-product-free-shipping-countries-toggle-button" data-action="toggleFreeShippingCountries">
+                    <span class="cc-product-free-shipping-countries-toggle-button-more">Show more</span>
+                    <span class="cc-product-free-shipping-countries-toggle-button-less">Show less</span>
+                </a>
+            </span>
+        </p>
+    </div>
+
+<ul class="cc-shop-product-availability j-product-details">
+    
+                            <li class="cc-shop-product-pool j-product-pool j-product-pool-status-1 cc-shop-product-pool-variant-1">
+            Disponível        </li>
+                            <li class="cc-product-delivery-time-info j-product-delivery-time cc-delivery-time-variant-1 j-product-delivery-time-status-1">
+            Enviado dentro de 1 dia        </li>
+    </ul>
+
+                
+<button class="cc-shop-addtocard cc-no-clickable-arrow" data-action="addToCart">
+    <span class="cc-shop-addtocard-text">
+      Adicionar ao carrinho    </span>
+</button>
+
+            </div><!-- end of div.cc-shop-product-desc -->
+        </div><!-- end of div.cc-shop-product-size-2 -->
+    </div><!-- end of div.hproduct -->
+</div><!-- end of div#cc-m-product-6356026884 -->
+<script id="cc-m-reg-14679485030">// <![CDATA[
+
+    window.regModule("module_product", {"variant":"default","moduleId":14679485030,"selector":"#cc-m-product-14679485030","superzoom":true,"hasVariants":false,"multiUpload":true,"mainImageHeight":211,"productId":"q104ef917d38c8b42","hash":"hashv1-1fb0354dc0b0bceedb6f8847f5dc692c2ca8e5f9","id":14679485030});
+// ]]>
+</script></div></div>
+        
+        </div>
+      </section>
+</div>
+    <!-- END _section-main.sass -->
+
+    <!-- _section-aside.sass -->
+    <aside class="jtpl-sidebar sidebar-options-box"><section class="jtpl-sidebar__inner sidebar-options-inner"><div data-container="sidebar"><div id="cc-matrix-4274834330"></div></div>
+      </section></aside><footer class="jtpl-footer footer-options"><div class="jtpl-footer__inner">
+        <div id="contentfooter" data-container="footer">
+
+    
+    <div class="j-meta-links">
+        <a href="/about/">About</a> | <a href="//api603104.jimdofree.com/j/shop/deliveryinfo" data-meta-link="shop_delivery_info">Payment and Delivery Information</a> | <a href="//api603104.jimdofree.com/j/privacy">Privacy Policy</a> | <a href="/sitemap/">Sitemap</a>    </div>
+
+    <div class="j-admin-links">
+            
+    <span class="loggedout">
+        <a rel="nofollow" id="login" href="/login">Log in</a>
+    </span>
+
+<span class="loggedin">
+    <a rel="nofollow" id="logout" target="_top" href="https://cms.e.jimdo.com/app/cms/logout.php">
+        Log out    </a>
+    |
+    <a rel="nofollow" id="edit" target="_top" href="https://a.jimdo.com/app/auth/signin/jumpcms/?page=2744157630">Edit</a>
+</span>
+        </div>
+
+    <div class="jimdo-free-footer-ad "> <a class="jimdo-footer-branding pull-left" href=" https://www.jimdo.com/?utm_source=cre-api603104&amp;utm_medium=footer%20ad&amp;utm_campaign=ownads%20webview" rel="nofollow">Jimdo</a> <p class="pull-left"> <strong>You can do it, too!</strong> Sign up for free now at <a id="fallback-ad-textlink" href=" https://www.jimdo.com/?utm_source=cre-api603104&amp;utm_medium=footer%20ad&amp;utm_campaign=ownads%20webview" class="jimdolink" rel="nofollow">https://www.jimdo.com</a> </p> </div> 
+</div>
+
+      </div>
+    </footer><!-- END _section-aside.sass -->
+</div>
+  <!-- END _main.sass -->
+
+</div>
+<div id="loginbox" class="hidden">
+
+    <div id="loginbox-header">
+
+    <a class="cc-close" title="Close this element" href="#">Close</a>
+
+    <div class="c"></div>
+
+</div>
+
+<div id="loginbox-content">
+
+        <div id="resendpw"></div>
+
+        <div id="loginboxOuter"></div>
+    </div>
+</div>
+<div id="loginbox-darklayer" class="hidden"></div>
+<script>// <![CDATA[
+
+    window.regModule("web_login", {"url":"https:\/\/api603104.jimdofree.com\/","pageId":2744157630});
+// ]]>
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDBL3P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
 </body>
 </html>
