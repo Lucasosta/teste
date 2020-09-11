@@ -4,6 +4,10 @@
 <meta charset="UTF-8"/>
 <title>Document</title>
 </head>
-<EMBED SRC="http://lucascosta070j-001-site1.etempurl.com/Teste2.mp3" NAME="Objeto1" ALIGN=BOTTOM WIDTH=600 HEIGHT=360 AUTOSTART="true" LOOP="true" />
+<audio controls>
+	<source src="/http://lucascosta070j-001-site1.etempurl.com/Teste2.mp3" type="audio/mpeg">
+	<source src="/http://lucascosta070j-001-site1.etempurl.com/Teste2.mp3" type="audio/mp3">
+	Seu navegador não suporta áudio tag.
+</audio>
 </body>
 </html>
