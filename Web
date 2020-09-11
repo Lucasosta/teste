@@ -5,6 +5,6 @@
 <title>Document</title>
 </head>
 <body>
-<!-- Conteúdo -->
+<<img src="avatar.png" alt="Texto alternativo" title="Avatar" />>
 </body>
 </html>
