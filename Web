@@ -5,7 +5,6 @@
     <meta charset="utf-8">
   </head>
   <body>
-    alert ("Oi, que se meu amigo?")
-</script>
+<script> alert (" Aqui sua mensagem ") </script>
   </body>
 </html>
