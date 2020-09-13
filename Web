@@ -1,1 +1,11 @@
-Html
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    alert ("Oi, que se meu amigo?")
+</script>
+  </body>
+</html>
